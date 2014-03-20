@@ -1,6 +1,5 @@
 A few days ago i wrote a piece for Vers Libre [1], a poetry community on G+ that i participate in. It went like this...
 
-<p style="margin-left:40px>
 heart beat, beat, beat
 is the blood in my head i hear
 beat, beat, beat
@@ -13,7 +12,6 @@ beat, beat, beat, washhh
 beat, beat, beat, washhh
 sakura perfume floats
 sing shakuhachi sing
-<p>
 
 The theme of this piece was music and i attempted to use the sound of words to bring a type of music to the poem. 
 
@@ -23,9 +21,7 @@ The act of writing the poem lead me to dust of my shakuhachi (traditional Japane
 
 Later that night I find a post on the Dartlang Community about this wonderful DevArt project. Almost immediately i thought of Sasa Buki and a webAudio tuner example by Alex Gann [3].  Perhaps an opportunity to build an app?
 
-<div style="margin-left:auto;margin-right:auto">
 ![Example Image](../project_images/ui-concept-a.png?raw=true "UI Concept A")
-</div>
 
 The above should give an idea of the initial idea ... the other variable would be tone: Where, a perfect note (eg. G) would display as bamboo leaf green, if the note goes flat or sharp than the resepective sample would indicate a colour shift. As Mr Yung says, "shifting tone colors".
 
