@@ -1,6 +1,6 @@
 # Sasa buki
 
-leaf shaped breath … 
+leaf shaped breath ...   
 
 ## Author
 - Peter Schonefeld, https://github.com/pschonefeld https://github.com/svg-developers 
