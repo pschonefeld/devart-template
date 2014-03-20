@@ -1,4 +1,4 @@
-A few days ago i wrote a piece for Vers Libre [1], a poetry community on G+ ... It went like this ...
+A few days ago i wrote a piece for Vers Libre [1], a poetry community on G+ ...
 
   heart beat, beat, beat
   is the blood in my head i hear
@@ -14,7 +14,7 @@ A few days ago i wrote a piece for Vers Libre [1], a poetry community on G+ ... 
   sing shakuhachi sing
 
 
-The act of writing the poem lead me to dust of my shakuhachi (traditional Japanese flute) that I taught myself to 'play' a few years back.  The Shakuhachi is a wonderful instrument for learning patience while trying to harness that first note, but, once you've got that elusive sound, playing is such a rich and meditative exprerience...
+The act of writing the poem lead me to dust off my shakuhachi (traditional Japanese flute) that I taught myself to 'play' a few years back.  The Shakuhachi is a wonderful instrument for learning patience while trying to harness that first note, but, once you've got that elusive sound, playing is such a rich and meditative exprerience.
 
 ...so I was a very rusty shakuhachi player and decided to look up the basic exercises assigned by the maker of my humble instrument, Perry Yung.  Mr Yung's first excercise is called Sasa Buki and he writes "Sasa Buki will introduce the beginner to the essence of shakuhachi - the shifting tone colors" [2]
 
