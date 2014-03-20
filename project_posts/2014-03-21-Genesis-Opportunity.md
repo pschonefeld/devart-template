@@ -22,7 +22,7 @@ Later that night I find a post on the Dartlang Community about this wonderful De
 
 ![Example Image](../project_images/ui-concept-a.png?raw=true "UI Concept A")
 
-The above should give an idea of the initial concept ... the other variable would be tone: Where, a perfect note (eg. G) would display as bamboo leaf green, if the note goes flat or sharp than the resepective sample would indicate a colour shift. As Mr Yung says, "shifting tone colors".
+The above should give an idea of the initial concept ... the other variable would be tone: Where, a perfect note (eg. G) would display as bamboo leaf green, if the note goes flat or sharp then the resepective sample would indicate a colour shift. As Mr Yung says, "shifting tone colors".
 
 Tomorrow: Tool up!
 
