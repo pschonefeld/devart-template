@@ -14,7 +14,7 @@ A few days ago i wrote a piece for Vers Libre [1], a poetry community on G+ ...
   sing shakuhachi sing
 
 
-The act of writing the poem lead me to dust off my shakuhachi (traditional Japanese flute) that I taught myself to 'play' a few years back.  The Shakuhachi is a wonderful instrument for learning patience while trying to harness that first note, but, once you've got that elusive sound, playing is such a rich and meditative exprerience.
+The act of writing the poem lead me to dust off my shakuhachi (traditional Japanese flute) that I taught myself to 'play' a few years back.  The Shakuhachi is a wonderful instrument for learning patience while trying to harness that first note, but, once you've got the elusive sound, playing is such a rich and meditative exprerience.
 
 ...so I was a very rusty shakuhachi player and decided to look up the basic exercises assigned by the maker of my humble instrument, Perry Yung.  Mr Yung's first excercise is called Sasa Buki and he writes "Sasa Buki will introduce the beginner to the essence of shakuhachi - the shifting tone colors" [2]
 
@@ -22,7 +22,7 @@ Later that night I find a post on the Dartlang Community about this wonderful De
 
 ![Example Image](../project_images/ui-concept-a.png?raw=true "UI Concept A")
 
-The above should give an idea of the initial concept ... the other variable would be tone: Where, a perfect note (eg. G) would display as bamboo leaf green, if the note goes flat or sharp then the resepective sample would indicate a colour shift. As Mr Yung says, "shifting tone colors".
+The above should give an idea of the initial concept ... Sample sound over time and progressively graph the volume.  The other variable would be tone: Where, a perfect note (eg. G) would display as bamboo leaf green, if the note goes flat or sharp then the resepective sample would indicate a colour shift. As Mr Yung says, "shifting tone colors".
 
 Tomorrow: Tool up!
 
