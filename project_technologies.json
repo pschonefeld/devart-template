@@ -2,7 +2,7 @@
     "technologies": {
         "apis": [
             "Web Audio",
-            "Google Sign-In"
+            "Google+ Sign-In"
         ],
         "platforms": [
             "Google Chrome"
