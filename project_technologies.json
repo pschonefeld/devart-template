@@ -1,13 +1,15 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "Web Audio",
+            "Google Sign-In"
         ],
         "platforms": [
-            "insert platforms"
+            "Google Chrome"
         ],
         "toolkits": [
-            "insert toolkits"
+            "Dart",
+            "SVG"
         ]
     },
     "themes": [
