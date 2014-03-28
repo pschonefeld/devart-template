@@ -42,7 +42,7 @@ Dart http://dartlang.org
 
 ## Images & Videos
 
-![Final Prototype](project_images/p7.png?raw=true "Sasa Buki p7")
+![Final Prototype](project_images/p7.png?raw=true "Sasa buki p7")
 
-![Final Prototype](project_images/p7b.png?raw=true "Sasa Buki p7")
+![Final Prototype](project_images/p7b.png?raw=true "Sasa buki p7")
 
