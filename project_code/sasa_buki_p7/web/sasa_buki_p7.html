@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Sasa buki p7</title>
+    <link rel="stylesheet" href="sasa_buki_p7.css">
+    <link href='http://fonts.googleapis.com/css?family=Roboto:400,700' rel='stylesheet' type='text/css'> 
+  </head>
+  <body>
+    <h1 style="margin-top:36px;margin-left:136px">p7</h1>
+    
+   <!--<p>Make a sound into your mic and alter the volume...try and hold it<br/>
+   play back sythenesized version of your sample (volume & tone)</p>-->
+   <div style="float:left;z-index:10;padding-bottom:20px">
+     <button id="btnPlaySample">play last sample</button><br/>
+     <button id="btnStartSample" class="playback"><div style="float:left;margin-left: 41px;margin-top: 3px;">start recording</div> <svg width="24px" height="24px" style="float:right" xmlns="http://www.w3.org/2000/svg">
+      <circle id="circleRecord" cx="12" cy="12" r="10" fill="#E61414" style="opacity:0"/>
+    </svg> </button><br/>
+     <button id="btnStopSample">stop recording</button><br/>
+   </div>
+
+    <div style="float:left;padding-left:20px;padding-right:20px">
+      <svg x="0" y="0" width="300px" height="450px" xmlns="http://www.w3.org/2000/svg">
+        <rect fill="none" width="100%" height="100%" opacity="1" stroke="#222" stroke-width="2px" />
+        <path id="svgPath" d="M150,0" stroke-width="4px" fill="none" stroke="#505739" opacity="0.8"/>
+      </svg> 
+    </div>
+
+   <div style="float:right;z-index:10;padding:14px">
+     <button id="btnTouchMode" class="btn_small on">click</button>
+     <button id="btnSine" class="btn_small wave on" data-wave="sine">sine</button>
+     <button id="btnSquare" class="btn_small wave off" data-wave="square">square</button>
+     <button id="btnSawtooth" class="btn_small wave off" data-wave="sawtooth">sawtooth</button>
+     <button id="btnTriangle" class="btn_small wave off" data-wave="triangle">triangle</button>          
+   </div>
+   
+    <div style="float:right">
+      <svg x="0" y="0" width="450px" height="600px" xmlns="http://www.w3.org/2000/svg">
+        <rect fill="white" width="100%" height="100%" opacity="0" />      
+        <g id="gSamples"/>
+      </svg> 
+    </div>    
+    
+    <script type="application/dart" src="sasa_buki_p7.dart"></script>
+    <script src="packages/browser/dart.js"></script>
+  </body>
+</html>

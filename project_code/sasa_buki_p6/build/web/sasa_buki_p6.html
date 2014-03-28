@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Sasa buki p6</title>
+    <link rel="stylesheet" href="sasa_buki_p6.css">
+  </head>
+  <body>
+    <h1 style="margin-top:36px;margin-left:136px">p6</h1>
+    
+   <!--<p>Make a sound into your mic and alter the volume...try and hold it<br/>
+   play back sythenesized version of your sample (volume & tone)</p>-->
+   <div style="position:absolute;z-index:10">
+     <button id="btnPlaySample">Play last sample</button><br/>
+     <button id="btnStartSample">Start recording</button><br/>
+     <button id="btnStopSample">Stop recording</button> 
+   </div>
+
+    <div style="position:absolute;top:80px;left:80px;">
+      <svg x="0" y="0" width="600px" height="600px" xmlns="http://www.w3.org/2000/svg">
+        <circle id="circleRecord" cx="134" cy="48" r="10" fill="red" style="opacity:0"/>
+        <path id="svgPath" d="M300,0" stroke-width="4px" fill="none" stroke="#505739" opacity="0.8"/> 
+      </svg> 
+    </div>
+    
+    <div style="position:absolute;top:80px;left:550px;">
+      <svg x="0" y="0" width="500px" height="600px" xmlns="http://www.w3.org/2000/svg">
+        <g id="gSamples">
+    
+        </g>
+      </svg> 
+    </div>    
+    
+    
+    <script type="application/dart" src="sasa_buki_p6.dart"></script>
+    <script src="packages/browser/dart.js"></script>
+  </body>
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Sasa buki p3</title>
+    <link rel="stylesheet" href="sasa_buki_p3.css">
+  </head>
+  <body style="background:rgb(128,128,128)">
+    <h1>Sasa buki Synthesize Sample</h1>
+   
+   <p>Make a sound into your mic and alter the volume...try and hold it<br/>
+   play back sythenesized version of your sample (volume only)</p>
+   <button id="btnPlaySample">Play Synthesized Sample</button>  <span id="spanGain">0</span> 
+   
+   <div style="position:absolute;top:120px;left:80px;z-index:2;width:200px;text-align:center">
+    <p id="avgVolume" style="font-size:84px;color:#555" ></p>
+   </div>
+    <div style="margin-left:70px">
+      <svg x="0" y="0" width="600px" height="1000px" xmlns="http://www.w3.org/2000/svg">
+        <path id="svgPath" d="M300,0" stroke-width="2px" fill="none" stroke="black" /> 
+      </svg> 
+    </div>
+
+    <script type="application/dart" src="sasa_buki_p3.dart"></script>
+    <script src="packages/browser/dart.js"></script>
+  </body>
+</html>
