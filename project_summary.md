@@ -21,7 +21,7 @@ Instructions (Chrome browser only):
 3. Click the click/touch button to allow mouseover play of samples (no need to click)
 4. Change the type of sound by clicking on the sine, triangle buttons
 
-[Sasa buki p7](http://www.google.com "Sasa buki prototype 7")
+[Sasa buki p7](http://vectorshapes.com/sasabuki/sasa_buki_p7.html "Sasa buki prototype 7")
 
 
 ## Example Code
