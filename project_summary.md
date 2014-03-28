@@ -20,6 +20,7 @@ Instructions (Chrome browser only):
 2. After you have a collection, play the samples back by clicking on them (you can click on the same or other sample while one is playing);
 3. Click the click/touch button to allow mouseover play of samples (no need to click)
 4. Change the type of sound by clicking on the sine, triangle buttons
+hint: use the volume tolerance slider if you are picking up background noise.
 
 [Sasa buki p7](http://vectorshapes.com/sasabuki/sasa_buki_p7.html "Sasa buki prototype 7")
 
