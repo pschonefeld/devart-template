@@ -19,7 +19,7 @@ bool _collectWhiteSpace = false;
 int _cols = 10;
 int _touchMode = 0; //0 = click; 1 = touch
 String _waveType = "sine";
-int _volumeCuttoff = 10;
+int _volumeCuttoff = 20;
 
 class Sound {
   double volume;
@@ -137,6 +137,11 @@ void main() {
     querySelectorAll(".wave").forEach((Element elem)=>elem.classes..remove("on")..add("off"));
     querySelectorAll("button[data-wave=$_waveType]").forEach((Element elem)=>elem.classes..remove("off")..add("on"));    
   }));  
+  
+  querySelector('#rangeVolume').onMouseUp.listen((e) {
+      _volumeCuttoff = int.parse(e.target.value);
+      querySelector("#volTolerance").text = e.target.value;
+  });
   
 }
 
